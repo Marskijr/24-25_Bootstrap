@@ -1,0 +1,37 @@
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #1b3f8c;
+}
+
+li{
+    float: left;
+}
+
+li a{
+    text-decoration: none;
+    color: white;
+    display: block;
+    padding: 25px 25px;
+}
+
+li a:hover {
+    background-color: #111;
+}
+.active1{
+    color: #c5bc18;
+    font-size: 40px;
+    text-align: center;
+    background-color: #472f8e;
+    font-family: 'Limelight';
+}
+.active2{
+    color: black;
+    font-size: 40px;
+    word-spacing: 700px;
+}
+
+</style>
